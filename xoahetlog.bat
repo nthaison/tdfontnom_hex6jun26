@@ -1,0 +1,14 @@
+del *.aux
+del *.log
+del *.out
+del *.synctex.gz
+del *.snm
+del *.toc
+del *.blg
+del *.bbl
+del *.nav
+del *.dvi
+del *.ps
+del *.idx
+del *.xml
+del *.bcf
